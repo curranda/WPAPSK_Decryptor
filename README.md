@@ -1,7 +1,7 @@
 # WPAPSK_Decryptor (Cracker)
  Python Script used to decrypt WPA PSK keys using the a word list, SSID, and the encrypted PSK
 
-Generator for WPA PSK keys: https://www.wireshark.org/tools/wpa-psk.html 
+Generator for WPA PSK keys: https://www.wireshark.org/tools/wpa-psk.html
 
 Source script used to reverse has the same generation results as Wireshark's site: https://github.com/julianofischer/python-wpa-psk-rawkey-gen 
 

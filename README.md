@@ -8,7 +8,7 @@ Source script used to reverse has the same generation results as Wireshark's sit
 Run using the following switches:
 python3 decryptPSK.py Wordlist SSID EncryptedPSK VerboseSwitch
 
-Example 1 (With Verbose Switch):
+Example 1 with Verbose switch:
 python3 decryptPSK.py rockyou.txt WPAPSKSecret d8853d38b81926b5bc46895a0012cd22ceb89051b48d004493150b3f0d2d860f Verbose
 
 Expected Output from Example 1:
@@ -16,7 +16,7 @@ Expected Output from Example 1:
 ...
 ![image](https://user-images.githubusercontent.com/46076535/205490498-4e579de9-8800-4dd2-b5c2-8aee3a9898f3.png)
 
-Example 2 (Without Verbose Switch, this should be faster since no output is needed to display) and the output
+Example 2 without Verbose switch the output
 ![image](https://user-images.githubusercontent.com/46076535/205490545-3a07bd9b-e285-4d39-838f-9ae5dbf2ccb1.png)
 
 
